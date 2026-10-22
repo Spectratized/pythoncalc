@@ -1,6 +1,6 @@
 # 🧮 Python Calculator
 
-A clean, modular, and beginner-friendly command-line calculator written in Python. This project demonstrates core programming practices such as pure functions, type annotations, error handling, interactive CLI menus, and unit testing.
+a simple calculator program, written in python. also a quick way for me to do my first github upload and all that.
 
 ---
 
