@@ -6,12 +6,11 @@ a simple calculator program, written in python. also a quick way for me to do my
 
 ## ✨ Features
 
-- **Basic Operations**: Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`)
-- **Advanced Operations**: Exponentiation (`^`), Modulus (`%`)
-- **Input Validation**: Gracefully handles non-numeric user inputs.
-- **Error Handling**: Catches and alerts on invalid operations (e.g., division by zero).
+- **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`)
+- **Advanced Operations**: exponents (`^`), modulus (`%`)
+- **Error Handling**: prevents invalid operations (e.g., division by zero).
 - **Unit Tested**: Fully covered with Python's built-in `unittest` module.
-- **Zero External Dependencies**: Runs on standard Python 3 with no extra packages required.
+- **Zero External Dependencies**: runs on Python 3 with no extra packages required.
 
 ---
 
@@ -43,25 +42,6 @@ python calculator.py
 
 Follow the interactive prompts in your terminal:
 ```text
-==============================
-      PYTHON CALCULATOR      
-==============================
-1. Add (+)
-2. Subtract (-)
-3. Multiply (*)
-4. Divide (/)
-5. Exponentiation (^)
-6. Modulus (%)
-7. Exit
-==============================
-Select an option (1-7): 1
-
-Selected: Addition
-Enter the first number: 12
-Enter the second number: 8
-
-Result: 12.0 + 8.0 = 20
-```
 
 ---
 
