@@ -1,10 +1,10 @@
-# 🧮 Python Calculator
+# 🧮 python calculator
 
 a simple calculator program, written in python. also a quick way for me to do my first github upload and all that.
 
 ---
 
-## ✨ Features
+## ✨ features
 
 - **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`), exponents (`^`), modulus (`%`)
 - **errors**: prevents invalid operations (division by zero).
@@ -13,7 +13,7 @@ a simple calculator program, written in python. also a quick way for me to do my
 
 ---
 
-## 📁 Project Structure
+## 📁 project structure
 
 ```text
 python-calculator/
@@ -25,7 +25,7 @@ python-calculator/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 how to play
 
 ### prerequisites
 
@@ -44,6 +44,6 @@ Follow the interactive prompts in your terminal:
 
 ---
 
-## 📄 License
+## 📄 license
 
-This project is open-source and free to use for educational purposes under the [MIT License](https://opensource.org/licenses/MIT).
+this project is open-source and free to use for educational purposes under the [MIT License](https://opensource.org/licenses/MIT).
