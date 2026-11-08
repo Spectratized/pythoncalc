@@ -4,7 +4,7 @@ a simple calculator program, written in python. also a quick way for me to do my
 
 ---
 
-## ✨ features
+## features
 
 - **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`), exponents (`^`), modulus (`%`)
 - **errors**: prevents invalid operations (division by zero).
@@ -13,7 +13,7 @@ a simple calculator program, written in python. also a quick way for me to do my
 
 ---
 
-## 📁 project structure
+## structure
 
 ```text
 python-calculator/
@@ -25,7 +25,7 @@ python-calculator/
 
 ---
 
-## 🚀 how to play
+## how to play
 
 ### prerequisites
 
@@ -44,6 +44,6 @@ Follow the interactive prompts in your terminal:
 
 ---
 
-## 📄 license
+## license
 
 this project is open-source and free to use for educational purposes under the [MIT License](https://opensource.org/licenses/MIT).
