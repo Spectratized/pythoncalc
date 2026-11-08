@@ -39,7 +39,7 @@ open your terminal/command prompt in the project directory and run:
 python calculator.py
 ```
 
-Follow the interactive prompts in your terminal:
+follow the prompts in your terminal:
 ```text
 
 ---
