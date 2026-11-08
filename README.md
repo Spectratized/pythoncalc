@@ -6,11 +6,10 @@ a simple calculator program, written in python. also a quick way for me to do my
 
 ## ✨ Features
 
-- **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`)
-- **Advanced Operations**: exponents (`^`), modulus (`%`)
-- **Error Handling**: prevents invalid operations (e.g., division by zero).
-- **Unit Tested**: Fully covered with Python's built-in `unittest` module.
-- **Zero External Dependencies**: runs on Python 3 with no extra packages required.
+- **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`), exponents (`^`), modulus (`%`)
+- **errors?: prevents invalid operations (e.g., division by zero).
+- **unit tested**: fully covered with Python's built-in `unittest` module.
+- **no external dependencies**: runs on Python 3 with no extra packages required.
 
 ---
 
@@ -28,13 +27,13 @@ python-calculator/
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### prerequisites
 
 - [Python 3.8+](https://www.python.org/downloads/) installed on your computer.
 
-### Running the Calculator
+### running the calc
 
-Open your terminal or command prompt in the project directory and run:
+open your terminal/command prompt in the project directory and run:
 
 ```bash
 python calculator.py
