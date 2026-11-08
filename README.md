@@ -7,7 +7,7 @@ a simple calculator program, written in python. also a quick way for me to do my
 ## ✨ Features
 
 - **operations**: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`), exponents (`^`), modulus (`%`)
-- **errors?: prevents invalid operations (e.g., division by zero).
+- **errors**: prevents invalid operations (division by zero).
 - **unit tested**: fully covered with Python's built-in `unittest` module.
 - **no external dependencies**: runs on Python 3 with no extra packages required.
 
